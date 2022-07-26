@@ -26,7 +26,7 @@ class Stack:
 
     def status(self):
         # Write code here
-        for item in items:
+        for item in self.items:
             print(item)
 
 # Do not change the following code
